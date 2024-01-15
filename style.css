@@ -1,0 +1,35 @@
+.menu {
+    display:inline-block;
+    background-color:white;
+    margin:10px;
+    weight: 20px;
+    height: 100px;
+       
+}
+
+ul{
+  
+    background-color:rgb(246, 204, 204);
+    margin:0px 90px 0px 120px;
+    padding:0;
+}
+
+li {
+    display:inline-block;
+    list-style-type: none;
+    font-size: 26;
+    color:black;
+    margin:25px 60px 25px 60px;
+    
+}
+
+button:hover{
+    background-color:pink;
+    width:120px;
+    height:40px;
+    color:white;
+    font-size:20;
+    margin:5px;
+    border:2px solid black;
+    border-radius:8px 0px 8px 0px;
+}
